@@ -8,5 +8,8 @@
     "keywords": [
         "time",
         "jquery"
-    ]
+    ],
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    }
 }
