@@ -1,31 +1,23 @@
 {
-    "name": "jquery-ui-timepicker",
-    "version": "0.3.4",
-    "description": "jQuery UI Timepicker",
-    "homepage": "https://github.com/binary-com/timepicker",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/ixa-devstuff/timepicker.git"
-    },
-    "author": {
-        "name": "Francois Gelinas",
-        "email": "frank@fgelinas.com"
-    },
-    "contributors": [],
-    "main": "jquery.ui.timepicker.css",
-    "license": "MIT",
-    "dependencies": { },
-    "keywords": [
-        "time",
-        "jquery"
-    ],
-    "engines": {
-        "node": "~8.17.0"
-    },
-    "bugs": {
-        "email": "devstuff@infoxchange.org"
-    },
-    "publishConfig": {
-        "registry": "https://npm.pkg.github.com/"
-    }
+  "name": "jquery-ui-timepicker",
+  "version": "0.3.4",
+  "description": "jQuery UI Timepicker by François Gélinas ========================================",
+  "main": "jquery.ui.timepicker.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixa-devstuff/jquery-ui-timepicker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ixa-devstuff/jquery-ui-timepicker/issues"
+  },
+  "homepage": "https://github.com/ixa-devstuff/jquery-ui-timepicker#readme"
 }
