@@ -1,0 +1,12 @@
+{
+    "name": "binary-com-jquery-ui-timepicker",
+    "version": "0.3.4",
+    "description": "jQuery UI Timepicker",
+    "homepage": "https://github.com/ixa-devstuff/timepicker",
+    "main": "jquery.ui.timepicker.css",
+    "license": "MIT",
+    "keywords": [
+        "time",
+        "jquery"
+    ]
+}
